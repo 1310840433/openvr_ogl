@@ -1,5 +1,5 @@
 //========= Copyright Valve Corporation ============//
-
+//¼ÙÔOß@ÊÇ‚€¸ü¸Ä
 #include <SDL.h>
 #include <GL/glew.h>
 #include <SDL_opengl.h>
